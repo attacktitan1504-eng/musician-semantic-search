@@ -4,8 +4,8 @@ Tugas Mandiri Case Study
 Mata Kuliah Semantik Web (CPMK 4)
 
 **Identitas Mahasiswa:**
-- **Nama:** Azriel Rokhan Syiabuddin Matdoan  
-- **NIM:** 230101085  
+- **Nama:** BIMA GAFARAH ABDULLAH 
+- **NIM:** 230101080
 - **Dosen Pengampu:** Fadli H. Wattiheluw, S.Kom., M.Kom  
 
 ---

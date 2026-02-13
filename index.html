@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Musician Semantic Search</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="background"></div>
+
+  <div class="container">
+    <h1>🎵 Musician Semantic Search</h1>
+    <p class="subtitle">
+      Cari informasi band dari DBpedia menggunakan SPARQL
+    </p>
+
+    <div class="search-box">
+      <input type="text" id="searchInput"
+        placeholder="Contoh: Coldplay, Queen"
+        onkeypress="if(event.key === 'Enter') searchBand()">
+      <button onclick="searchBand()">Cari</button>
+    </div>
+
+    <div id="result"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
